@@ -1,0 +1,22 @@
+.container{
+    text-align: center;
+}
+
+.category{
+    width: 100px;
+    height: 100px;
+    background: #ccc;
+}
+
+h3{
+    align: center;
+}
+
+b{
+	font-weight: 10000;
+	color: #000000;
+}
+
+#under-navbar{
+padding-top: 5cm
+}

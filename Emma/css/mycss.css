@@ -1,0 +1,44 @@
+p{
+
+	padding-top: 2cm;
+
+
+}
+
+h1 {
+color: blue;
+   	 font-family: “Times”;
+    	font-size: 24px;
+}
+
+#programsearch {
+
+color: #66cccc;
+   	 font-family: “Times”;
+    	font-size: 24px;
+
+}
+
+p {
+color: blue;
+font-family: "Gill Sans";
+font-size: 16px;
+}
+
+#programstitles{
+	color: #24305e
+
+
+}
+
+#programstitles{
+	font-size: 20px
+}
+
+#footer{
+padding-top:15cm
+}
+
+#topOfPage{
+padding-top: 5cm;
+}
